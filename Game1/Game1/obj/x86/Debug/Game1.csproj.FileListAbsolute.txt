@@ -1,0 +1,20 @@
+c:\users\kenneth l\documents\visual studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+c:\users\kenneth l\documents\visual studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+c:\users\kenneth l\documents\visual studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+c:\users\kenneth l\documents\visual studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kenneth l\documents\visual studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+c:\users\kenneth l\documents\visual studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Kenneth L\Dropbox\Game1\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth L\Dropbox\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kenneth L\Dropbox\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Kenneth L\Dropbox\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\KennethLi\Dropbox\Game1\Game1\Game1\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\KennethLi\Dropbox\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\KennethLi\Dropbox\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+C:\Users\KennethLi\Dropbox\Game1\Game1\Game1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KennethLi\Dropbox\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\KennethLi\Dropbox\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\KennethLi\Dropbox\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Kenneth L\Dropbox\Game1\Game1\Game1\bin\x86\Debug\Content\Fonts\SpriteFont1.xnb
+C:\Users\Kenneth L\Dropbox\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\Kenneth L\Dropbox\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
